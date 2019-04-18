@@ -11,6 +11,7 @@ Homework:
 - Greta Thunberg - School strike for climate. Save the world by changing the rules: https://youtu.be/EAmmUIEsN9A
 - Juan Enriquez - The age of genetic wonder: https://youtu.be/-T3k6s7bev8
 - Stephen Carter - Technology is Only a Tool: https://youtu.be/ZjGPeuNk-6Q
+- Two Monkeys Were Paid Unequally - Excerpt from Frans de Waal's TED Talk: https://youtu.be/meiU6TxysCg
 
 The most relevant question: 
 - How do you make all other people work for you as efficient as possible? 
