@@ -12,3 +12,7 @@ Useful methods to learn:
 Synonyms:
 - communication ~ discussion about similar experiences or known to all discussion participants intellectual objects
 - be more creative ~ create new associations between intellectual objects
+
+';--have i been pwned?
+- https://haveibeenpwned.com/
+- https://haveibeenpwned.com/Passwords
