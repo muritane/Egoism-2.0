@@ -10,5 +10,5 @@ Useful methods to learn:
     * 2x3 = 1x3 + 1x3 learning addition to multiply numbers
 
 Synonyms:
-- communication ~ discussion about similar experiences or known to both discussion partners intellectual objects
+- communication ~ discussion about similar experiences or known to all discussion participants intellectual objects
 - be more creative ~ create new associations between intellectual objects
